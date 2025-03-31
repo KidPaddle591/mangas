@@ -1,0 +1,20 @@
+
+header {
+    background-color: #333;  
+    margin:20px 20px 20px 20px;
+}
+
+.link-header {
+    color: white;
+}
+
+.menu-txt {
+    padding:1px 0 20px 60px;
+}
+
+.logo {
+    height:50px;
+    width:50px;
+    float: left;
+    padding:20px 0 20px 20px;
+}
